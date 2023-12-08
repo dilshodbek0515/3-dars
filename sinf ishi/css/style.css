@@ -1,0 +1,108 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+/* .container {
+    display: flex;
+}
+
+.box {
+    width: 200px;
+    height: 200px;
+    background-color: dodgerblue;
+    border: 20px solid red;
+    /* box-sizing: content-box; */
+}
+
+.row {
+    width: 200px;
+    height: 200px;
+    background-color: gold;
+    margin-left: 50px;
+    border: 20px solid red;
+    box-sizing: border-box;
+}
+
+*/
+/* word-spacing: 50px; */
+/* letter-spacing: 50px; */
+/* line-height: 50px; */
+/* text-decoration: line-through;
+        text-decoration: underline;
+        text-decoration: overline; */
+/* text-transform: lowercase;
+        text-transform: capitalize;
+        text-transform: uppercase; */
+
+
+/* .container {
+    width: 1000px;
+    height: 600px;
+    background-color: gold;
+    margin: 0 auto;
+    display: flex;
+    justify-content:space-evenly;
+    align-items: center;
+}
+
+.box-one {
+    width: 200px;
+    height: auto;
+    background-color: red;
+    border-radius: 10px;
+
+}
+
+.box-two {
+    width: 200px;
+    height: auto;
+    background-color: blue;
+    border-radius: 10px;
+
+}
+.box-thee {
+    width: 200px;
+    height: auto;
+    background-color: purple;
+    border-radius: 10px;
+}
+
+.card_images{
+    width: 100%;
+    height: 200px;
+}
+
+.text{
+    color:white;
+    font-size: 14px;
+
+}
+
+.card_btn{
+    width: 100px;
+    height: 30px;
+    background-color: dodgerblue;
+    font-size: 14px;
+    color: white;
+    border-radius: 10px;
+    cursor: pointer;
+    border: 1px solid transparent;
+}
+
+.card_btn:hover{
+    background-color: white;
+    color: dodgerblue;
+    border-color: dodgerblue;
+} */
+
+
+
+/* .box {
+    width: 400px;
+    height: 400px;
+    background-color: red;
+    margin: 100px auto;
+    border-radius: 10px 50px 80px 100px;
+} */
